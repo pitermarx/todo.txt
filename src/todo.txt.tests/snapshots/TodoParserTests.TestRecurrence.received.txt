@@ -1,0 +1,100 @@
+﻿[
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {
+    rec: {
+      Due: 2021-01-01,
+      Period: 1
+    },
+    next: {
+      Due: 2021-01-02,
+      Period: 1
+    }
+  },
+  {
+    rec: {
+      Due: 2021-01-01,
+      Period: 10
+    },
+    next: {
+      Due: 2021-01-11,
+      Period: 10
+    }
+  },
+  {
+    rec: {
+      Due: 2021-01-01,
+      Interval: w,
+      Period: 1
+    },
+    next: {
+      Due: 2021-01-08,
+      Interval: w,
+      Period: 1
+    }
+  },
+  {
+    rec: {
+      Due: 2021-01-01,
+      Interval: w,
+      Period: 10
+    },
+    next: {
+      Due: 2021-03-12,
+      Interval: w,
+      Period: 10
+    }
+  },
+  {
+    rec: {
+      Due: 2021-01-01,
+      Interval: m,
+      Period: 1
+    },
+    next: {
+      Due: 2021-02-01,
+      Interval: m,
+      Period: 1
+    }
+  },
+  {
+    rec: {
+      Due: 2021-01-01,
+      Interval: m,
+      Period: 10
+    },
+    next: {
+      Due: 2021-11-01,
+      Interval: m,
+      Period: 10
+    }
+  },
+  {
+    rec: {
+      Due: 2021-01-01,
+      Interval: y,
+      Period: 1
+    },
+    next: {
+      Due: 2022-01-01,
+      Interval: y,
+      Period: 1
+    }
+  },
+  {
+    rec: {
+      Due: 2021-01-01,
+      Interval: y,
+      Period: 10
+    },
+    next: {
+      Due: 2031-01-01,
+      Interval: y,
+      Period: 10
+    }
+  }
+]

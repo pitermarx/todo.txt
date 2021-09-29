@@ -1,0 +1,16 @@
+(A) Crack the Da Vinci Code with key:value key:value2
+(B) +winning Win with key:value anotherKey:anotherValue
+@context Give it some context. due:2021-01-01 rec:+1y
+x 2015-01-09 This task key:value kis completed and has a completion date
+x 2015-01-09 2015-01-08 This key:value ktask is completed due:2021-01-01 rec:+1y and has created and completion dates
+(A) Crack the Da Vinci Code.
+(B) +winning Win.
+@context Give it some context.
+Just a POD: Plain old task.
+(C) +project @context This one has it all!
+(C) 2012-02-03 This one has a date!
+(B) 2012-03-04 +project @context This one has a date and a context AND a project!
+2012-04-03 This one has no priority and a date.
+03-04-2012 This one has a malformed date.
+x 2015-01-09 This task is completed and has a completion date
+x 2015-01-09 2015-01-08 This task is completed and has created and completion dates

@@ -1,0 +1,14 @@
+No recurrence
+Just due date due:2021-01-02
+Just rec rec:1y
+Invalid date due:2021-91-92 rec:1y
+Invalid rec due:2021-01-12 rec:1x
+Invalid rec 2 due:2021-01-12 rec:y
+Recurrence day due:2021-01-01 rec:1d
+Recurrence day2 due:2021-01-01 rec:10d
+Recurrence week due:2021-01-01 rec:1w
+Recurrence week2 due:2021-01-01 rec:10w
+Recurrence month due:2021-01-01 rec:1m
+Recurrence month2 due:2021-01-01 rec:10m
+Recurrence year due:2021-01-01 rec:1y
+Recurrence year2 due:2021-01-01 rec:10y
